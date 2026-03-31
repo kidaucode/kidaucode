@@ -2,7 +2,7 @@
 
 <!--
 **kidaucode/kidaucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![eumamy's 42 stats](https://badge.mediaplus.ma/greenbinary/eumamy)](https://github.com/oakoudad/badge42)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
